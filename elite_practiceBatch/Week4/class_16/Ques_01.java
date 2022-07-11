@@ -1,6 +1,13 @@
 package Week4.class_16;
 
 public class Ques_01 {
+     public static void main(String[] args){
+        int[] arr = {10,8,11,3};
+        int lim =3;
+        painterPartition (arr, lim);
+
+
+    }
     private static void painterPartition (int[] arr, int paintersLimit) {
          int low = arr[arr.length-1];
         int high = 0;
