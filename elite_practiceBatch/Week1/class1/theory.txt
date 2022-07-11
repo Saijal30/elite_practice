@@ -1,0 +1,1 @@
+If, else, even no, variable, char, double, float, string, boolean, Scanner, for, while, do while, add(a++), functions, Math functions(max, pow, min, max), inbuild largest value and smallest value
